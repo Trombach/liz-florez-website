@@ -1,0 +1,12 @@
+
+# Font style metadata
+name = "My Font Set"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat&family=Inter"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Inter"
+nav_font = "Montserrat"
+mono_font = "Inter"

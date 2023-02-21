@@ -30,8 +30,8 @@ experience:
     date_start: '2020-10-01'
     date_end: ''
     description: >-
-    * Functional characterisation of virulence genes in the fungal pathogen of apple *Neonectria ditissima*
-        
+      * Functional characterisation of virulence genes in the fungal pathogen of apple *Neonectria ditissima*  
+
   - title: 'MSc in Biological Sciences'
     company: 'University of Auckland'
     company_url: 'https://www.auckland.ac.nz/en.html'
@@ -40,7 +40,7 @@ experience:
     date_start: '2017-07-01'
     date_end: '2019-06-30'
     description: >-
-    * Identification of virulence genes in the fungal pathogen of apple *Neonectria ditissima*
+      * Identification of virulence genes in the fungal pathogen of apple *Neonectria ditissima*
 
   - title: 'BSc in Biology'
     company: 'Universidad Peruana Cayetano Heredia'
