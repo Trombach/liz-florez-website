@@ -18,20 +18,6 @@ org_name: ''
 description: ''
 twitter: ''
 
-# Contact (edit or remove options as required)
-
-email: lauren.hemara@gmail.com
-address:
-  city: Tāmaki Makaurau
-  region: Auckland
-  country: New Zealand
-  country_code: NZ
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Tweet me!
-    link: 'https://twitter.com/LaurenHemara'
-
 # Site header
 
 main_menu:
