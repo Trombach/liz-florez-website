@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Lauren Hemara # Website name
-baseurl: 'https://hemara.nz/' # Website URL
-copyright: '© {year} Lauren Hemara' # Footer text, e.g. '© {year} Me'
+title: Liz Florez # Website name
+baseurl: 'https://liz-florez.netlify.app/' # Website URL
+copyright: '© {year} Liz Florez' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
