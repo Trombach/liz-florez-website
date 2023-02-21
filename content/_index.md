@@ -18,7 +18,7 @@ sections:
       items:
         - name: Molecular biology
           icon: dna
-          icon_pack: fab
+          icon_pack: fas
         - name: Fungi
           icon: mushroom
           icon_pack: fas
