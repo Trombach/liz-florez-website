@@ -21,7 +21,7 @@ feature:
     icon_pack: fas
   - name: Fungi
     icon: mushroom
-    icon_pack: fas
+    icon_pack: fa
   - name: Football
     icon: futbol
     icon_pack: fas
