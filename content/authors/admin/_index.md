@@ -19,17 +19,20 @@ organizations:
     url: https://profiles.auckland.ac.nz/lflr082
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fungal effectors!
+bio: My research interests include virulence mechanisms of pathogenic fungi in plants. Particularly looking at effector proteins!
 
 # Interests to show in About widget
 interests:
   - Fungal effectors
-  - Fungal virulence mechanisms
-  - Bioinformatics
+  - Virulence mechanisms of plant fungal pathogens
+  - Fungal structures required for plant infection
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD candidate in Biological Sciences
+      institution: University of Auckland
+      year: ongoing
     - course: MSc in Biological Sciences
       institution: University of Auckland
       year: 2020
@@ -70,4 +73,4 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm Liz Florez.
+Hi! Welcome to my website! I'm a doctoral candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). I'm based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Centre.
