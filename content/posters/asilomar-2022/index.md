@@ -1,13 +1,13 @@
 ---
-title: Four candidate avirulence effectors contribute to Psa3 recognition in *Actinidia arguta*
-summary: This poster was presented at the 2021 IS-MPMI eSymposia and gets a shout-out in [this meeting review](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-21-0208-MR)!
-date: "2021-07-01"
+title: CRISPR-Cas9 gene editing to characterise virulence genes on *Neonectria ditissima*, a necrotrophic fungal pathogen of apple. 
+summary: This poster was presented online at the 31st Fungal Genetics Conference.
+date: "2022-03-18"
 
 tags:
 - Poster
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://hemara.nz/uploads/is-mpmi-2021.pdf"
+external_link: "https://liz-florez.netlify.app/uploads/Liz-Florez-poster-simplified-FGC-2022.pdf"
 
 image:
   caption: 
