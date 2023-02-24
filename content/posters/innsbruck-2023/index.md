@@ -1,13 +1,13 @@
 ---
-title: CRISPR-Cas9 gene editing to characterise virulence genes on *Neonectria ditissima*, a necrotrophic fungal pathogen of apple. 
-summary: This poster was presented online at the 31st Fungal Genetics Conference.
-date: "2022-03-18"
+title: Effector proteins required for virulence of *Neonectria ditissima*, a fungal pathogen of apple.
+summary: This poster is being presented in March at the 16th European Conference on Fungal Genetics
+date: "2023-03-06"
 
 tags:
 - Poster
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://liz-florez.netlify.app/uploads/Liz-Florez-poster-simplified-FGC-2022.pdf"
+external_link: "https://liz-florez.netlify.app/uploads/Liz-Florez-poster-ECFG-2023.pdf"
 
 image:
   caption: 
