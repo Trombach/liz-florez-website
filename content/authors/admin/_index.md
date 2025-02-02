@@ -46,7 +46,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:liz.florez.p@gmail.com
-  - icon: bluesky
+  - icon: twitter
+    icon_pack: fab
     link: https://bsky.app/profile/lizflorez.bsky.social
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
