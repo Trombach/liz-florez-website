@@ -46,11 +46,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:liz.florez.p@gmail.com
-  - icon: brands/bluesky
-    icon_pack: custom
+  - icon: bluesky
     link: https://bsky.app/profile/lizflorez.bsky.social
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=OIHSfbQAAAAJ  
