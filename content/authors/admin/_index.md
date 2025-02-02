@@ -46,8 +46,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:liz.florez.p@gmail.com
-  - icon: bluesky
-    icon_pack: fab
+  - icon: brands/bluesky
+    icon_pack: custom
     link: https://bsky.app/profile/lizflorez.bsky.social
     display:
       header: true
