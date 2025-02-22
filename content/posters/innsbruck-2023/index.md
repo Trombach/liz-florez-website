@@ -1,6 +1,6 @@
 ---
 title: Effector proteins required for virulence of *Neonectria ditissima*, a fungal pathogen of apple.
-summary: This poster is being presented in March at the 16th European Conference on Fungal Genetics
+summary: This poster was presented at the 16th European Conference on Fungal Genetics, Innsbruck, Austria.
 date: "2023-03-06"
 
 tags:
