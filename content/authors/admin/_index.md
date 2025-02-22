@@ -15,8 +15,8 @@ role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Molecular Plant Pathology
-    url: https://environmental-genomics.de/liz-forez.html
+  - name: Environmental Genomics Lab, Kiel 🇩🇪
+    url: https://environmental-genomics.de/liz-fores.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hi, I'm Liz. Originally from Peru where my passion for molecular biology started. I did my PhD research in New Zealand focusing on the molecular understanding of an apple fungal pathogen. Currently UI am working in Germany as a postdoctoral fellow focusing on apoplastic effectors of a devastating fungal wheat pathogen.
@@ -35,7 +35,10 @@ education:
       year: 2020-2024
     - course: MSc in Biological Sciences
       institution: University of Auckland
-      year: 2019-2020
+      year: 2017-2019
+    - course: BSc in Biology
+      institution: Universidad Peruana Cayetano Heredia
+      year: 2011-2016
 
 
 # Social/Academic Networking
