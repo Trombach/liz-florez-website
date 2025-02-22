@@ -27,18 +27,17 @@ experience:
     company_url: 'https://www.environmental-genomics.de/team.html'
     company_logo: envgen-logo
     location: 'Kiel, Germany'
-    date_start: '2024'
+    date_start: '2024-06-01'
     date_end: ''
     description: >-
-      * Understanding functional diversity of effectors in *Zymoseptoria tritici* in wheat immunity and microbiome manipulation.
-          
+      * Understanding functional diversity of effectors in *Zymoseptoria tritici* in wheat immunity and microbiome manipulation.        
   - title: 'PhD in Biological Sciences'
     company: 'University of Auckland'
     company_url: 'https://www.auckland.ac.nz/en.html'
     company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
-    date_start: '2020'
-    date_end: '2024'
+    date_start: '2020-10-01'
+    date_end: '2024-10-31'
     description: >-
       * Unravelling the molecular virulence mechanisms of *Neonectria ditissima*, a fungal pathogen of apple
 
