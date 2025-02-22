@@ -35,7 +35,7 @@ experience:
     company: 'University of Auckland'
     company_url: 'https://www.auckland.ac.nz/en.html'
     company_logo: uoa-logo
-    location: 'Tāmaki Makaurau, Auckland'
+    location: 'Auckland, New Zealand'
     date_start: '2020-10-01'
     date_end: '2024-10-31'
     description: >-
