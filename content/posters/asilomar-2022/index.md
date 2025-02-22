@@ -1,6 +1,6 @@
 ---
 title: CRISPR-Cas9 gene editing to characterise virulence genes on *Neonectria ditissima*, a necrotrophic fungal pathogen of apple. 
-summary: This poster was presented online at the 31st Fungal Genetics Conference.
+summary: This poster was presented virtually at the 31st Fungal Genetics Conference, ASILOMAR, CA, USA.
 date: "2022-03-18"
 
 tags:
