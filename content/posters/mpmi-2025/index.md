@@ -1,7 +1,7 @@
 ---
 title: The fungal effector AvrStb6 regulates the wheat pathobiome.
 summary: This poster was presented at the 20th MPMI Congress, Cologne, Germany.
-date: "2025-07-17"
+date: "2025-07-09"
 
 tags:
 - Poster
