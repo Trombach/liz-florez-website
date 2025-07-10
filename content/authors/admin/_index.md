@@ -19,7 +19,7 @@ organizations:
     url: https://environmental-genomics.de/liz-fores.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi, I'm Liz. Originally from Peru where my passion for molecular biology started. I did my PhD research in New Zealand focusing on the molecular understanding of an apple fungal pathogen. Currently UI am working in Germany as a postdoctoral fellow focusing on apoplastic effectors of a devastating fungal wheat pathogen.
+bio: Hey! I'm Liz Florez. Originally from Peru where my passion for molecular biology started. I did my PhD research in New Zealand focusing on the molecular virulence mechanisms of an apple fungal pathogen. Currently I am working as a postdoctoral researcher in Germany, where I'm studying the infection biology of a fungal wheat pathogen. 
 
 # Interests to show in About widget
 interests:
@@ -72,8 +72,11 @@ email: ''
 highlight_name: true
 ---
 
-Hi! I'm a postdoctoral fellow at the [Environmental Genomics](https://www.environmental-genomics.de/) group at the University of Kiel and Max Planck Institute of Evolutionary Biology.
+Thanks for popping by! I'm Liz Florez, originally from Peru, with most of my research experience gained in New Zealand and currently working as a postdoctoral scientist in northern Germany, at the [Environmental Genomics](https://www.environmental-genomics.de/) group at the University of Kiel and Max Planck Institute for Evolutionary Biology. 
 
-I have a deep passion for understanding molecular virulence mechanisms of fungal effector proteins, from their interaction with plant susceptible targets, to their recognition by plant immunity proteins and their potential role in manipulation the plant microbiome.
+I'm passionate about molecular plant-microbe interactions, especially how fungal effector proteins drive virulence, evade plant immunity, and interact with their surrounding environment. 
 
-I believe that an understanding of the diverse roles a single fungal effector can play will enable us to better engineer plant resistance, focusing on broad-function effectors that interact with the multiple layers of plant defence.
+My current work focuses on the wheat pathogen _Zymoseptoria tritici_, diving deep on the role of the effector AvrStb6. 
+Although it was initially found that AvrStb6 is recognised by the wheat immune receptor Stb6, field sampling showed that _Z. tritici_ still retains mutated versions of this effector. Some of the AvrStb6 isoforms are not only no longer recognised by Stb6 but are still highly expressed during the biotrophic phase of the fungus. This raises the question: what critical function is AvrStb6 performing? Why does this pathogen retained this effector despite the initial host pressure (Stb6 recognition)?
+
+One of the hypothesis we are exploring, supported by microbiome data, is that AvrStb6 might be involved in modulating microbial dynamics in the wheat apoplast. If feeling curious, take a look at my recent posters for more information! :)
